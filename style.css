@@ -1,0 +1,92 @@
+body {
+    background-color: white;
+    margin: 0%;
+}
+
+body > header {
+    background-color: dodgerblue;
+    padding: 7px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body > header > h1 {
+    margin: 3%;
+}
+
+#navbar {
+    float: right;
+    color: black;
+    margin-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body > footer {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 7px;
+}
+
+body > main > aside {
+    margin: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 30%;
+    margin-bottom: 350px;
+    
+}
+
+body > main > article {
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 70%;
+    
+}
+
+body > main > section {
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 45%;
+}
+
+body > main > div {
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    right:0%;
+    top: 26%;
+    
+}
+
+body > main > div > nav > ul > li {
+    position: absolute;
+    right: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#comments-section {
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#comments-section > img {
+    max-width: 120px;
+    height: auto;
+}
+
+
+hr {
+    display: block;
+        height: 1.5px;
+        border: 0;
+        border-top: 1px solid dodgerblue;
+        padding: 8px;
+}
+
+body > main > form {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 100px;
+    top: -50px;
+}
